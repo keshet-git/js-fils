@@ -1,0 +1,16 @@
+  [
+    {
+        "name": "big boy",
+        "numberOfEmployees": 1000,
+        "ceo": "mary",
+      "rating": 3.6
+    },
+     {
+     "name": "small startup",
+     "numberOfEmployees": 3,
+     "ceo": null,
+      "rating": 4.3
+     }
+  ]
+
+  
